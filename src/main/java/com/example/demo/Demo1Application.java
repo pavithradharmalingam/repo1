@@ -8,6 +8,7 @@ public class Demo1Application {
 //added comments in src
 	public static void main(String[] args) {
 		SpringApplication.run(Demo1Application.class, args);
+		System.out.println("welcome::::");
 	}
 
 }
